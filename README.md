@@ -25,42 +25,63 @@
 -----------------------------
 
 ## Key Insights :
+
+###  Overall Snapshot :
+- Total Revenue: 989.25M
+- Total Customers: 26,841
+- Daily Avg Revenue: 5.47M
+- Daily Avg Customers: 148
+- 
 ### City-Level Insights :
-- Delhi NCR is the top-performing city, generating **₹401.57M** revenue & the highest customer base (**11,007**), indicating strong market presence.
-- Indore is the weakest performer with only **₹81.35M** revenue & **2,096** customers, highlighting growth potential but limited current reach.
-- **Delhi** & **Mumbai** are the only cities with more than **1,000** agents across all sales modes, enabling consistent performance.
-- **Indore** has the lowest agent count (**250–350**) in most sales modes, except Offline Agent, which explains its lower revenue & customer numbers.
-- **March** is the strongest month with **₹264M** revenue and **7,081** customers, while November records the lowest performance (**₹132M** revenue, **3,787** customers).
+- Delhi NCR: Highest revenue 401.57M | Highest customers 11,007
+- Indore: Lowest revenue 81.35M | Lowest customers 2,096
+- Delhi & Mumbai: Only cities with 1,000+ agents across all sales modes
+- Indore: Weak agent presence (250–350) except Offline Agent (1,176)
+- March: Peak month — Revenue 264M, Customers 7,081
+- November: Weakest month — Revenue 132M, Customers 3,787
 
-### Sales Mode-Level Insights :
-- **Offline Agent** is the dominant sales channel:
-    - Customers: **14,873** (**55.41%**)
-    - Revenue: **₹551M** (**55.67%**)
-- **Online App** ranks second, contributing **₹161M** revenue (**16.27%**) & **4,302** customers (**16.03%**), showing strong digital adoption.
-- **Offline Direct** & **Online Website** contribute similar but lower shares, indicating underutilized potential.
-- Policy **POL2005HEL** is the top revenue-generating policy at **₹324.26M**, while **POL4321HEL** generates the least (**₹25M**).
-- Only four policies exceed **₹100M** revenue, suggesting revenue concentration in a limited number of products.
+### Age Group Insights :
+- 31–40: Highest revenue 309.32M | Highest customers 10,431
+- 50+: Strong base 11,400 customers | Highest settlement % (65+ → 74.33%)
+- Under 30 (18–24 & 25–30): Lowest revenue (24.94M, 56.73M) | Lowest customers (1,822)
+- Settlement % increases with age 18–24: 37.51% → 65+: 74.33%
+- POL2005HEL: Top revenue across all age groups
+- Policy preference by age:
+    - 18–30 → POL4321HEL
+    - 31–40 → POL3309HEL
+    - 41–50 → POL5319HEL
+    - 51–65 → POL9221HEL
+    - 65+ → POL2005HEL
 
-### Age Group-Level Insights :
-- The **31–40** age group is the most valuable segment:
-    - Revenue: **₹309.32M**
-    - Customers: **10,431** (highest)
-- **18–24**(**₹24.94M**) & **25–30**(**₹56.73M**) age groups contribute the lowest revenue, indicating lower purchasing power or engagement.
-- **65+** age group has the highest average settlement percentage (**74.33%**), making it a high-risk but high-value segment.
-- Settlement percentage steadily increases with age, highlighting increased claim exposure among older customers.
-- In **POL2005HEL**, the **65+** age group contributes the highest revenue (**₹118.03M**), while **18–24** contributes the least (**₹3.83M**).
+### Sales Mode & Policy Insights :
+- Offline Agent: Dominates
+    - Customers 14,873 (55.41%)
+    - Revenue 551M (55.67%)
+
+- Online Website: Weakest
+    - Customers 3,410 (12.7%)
+    - Revenue 125M (12.6%)
+
+- Policy Performance:
+    - POL2005HEL: Highest revenue 324M, low customers 1,968
+    - POL4321HEL: Highest customers 4,434, lowest revenue 25M
+    - POL1048HEL: Lowest customers 1,668
+
+- Only 4 policies >100M revenue: POL2005HEL, POL1048HEL, POL6303HEL, POL9221HEL
 
 ----------------------------
 
 ## 🔑Recommendations :
-- Prioritize **Delhi NCR** & **Mumbai** to maximize revenue through stronger agent productivity & targeted campaigns.
-- Expand agent coverage and digital presence in underperforming cities like **Indore** to drive growth.
-- Continue investing in **Offline Agent** channels while accelerating adoption of digital sales modes.
-- Focus on the **31–40** age group with premium & cross-sell offerings to maximize revenue.
-- Introduce affordable entry-level policies for younger customers to build long-term value.
-- Closely manage **65+** age group risk due to higher settlement exposure through tailored policies.
-- Optimize the policy portfolio by promoting high-performing policies & reviewing low performers.
-- Leverage **March** seasonality for major campaigns & boost engagement in weaker months like **November**.
+- Double down on Delhi NCR playbook to replicate high revenue & customer acquisition across other cities.
+- Strengthen Tier-2 cities like Indore by expanding agent networks beyond Offline Agent to unlock growth.
+- Prioritize the 31–40 age group as the core growth engine with targeted upsell & cross-sell strategies.
+- Protect & expand the 50+ segment using trust-based messaging driven by high settlement percentages.
+- Redesign offerings for under-30 customers with affordable, digital-first policies to boost engagement.
+- Scale the Offline Agent channel while improving agent productivity in low-performing regions.
+- Urgently enhance the Online Website experience to improve adoption and revenue contribution.
+- Reposition POL2005HEL to increase customer penetration without compromising premium value.
+- Revamp POL4321HEL pricing or coverage to improve revenue from its large customer base.
+- Leverage March success patterns & introduce promotional campaigns to uplift weak months like November.
 
 ---------------------------------
 
