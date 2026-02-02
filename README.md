@@ -72,16 +72,17 @@
 ----------------------------
 
 ## 🔑Recommendations :
-- Double down on Delhi NCR playbook to replicate high revenue & customer acquisition across other cities.
-- Strengthen Tier-2 cities like Indore by expanding agent networks beyond Offline Agent to unlock growth.
-- Prioritize the 31–40 age group as the core growth engine with targeted upsell & cross-sell strategies.
-- Protect & expand the 50+ segment using trust-based messaging driven by high settlement percentages.
-- Redesign offerings for under-30 customers with affordable, digital-first policies to boost engagement.
-- Scale the Offline Agent channel while improving agent productivity in low-performing regions.
-- Urgently enhance the Online Website experience to improve adoption and revenue contribution.
-- Reposition POL2005HEL to increase customer penetration without compromising premium value.
-- Revamp POL4321HEL pricing or coverage to improve revenue from its large customer base.
-- Leverage March success patterns & introduce promotional campaigns to uplift weak months like November.
+- Double down on 31–40 age group — highest customers and revenue driver.
+- Protect & expand 50+ segment — high settlement % builds long-term trust and retention.
+- Reposition policies for under-30 customers — low revenue and weak engagement.
+- Scale Offline Agent channel — strongest revenue and customer acquisition engine.
+- Urgently improve Online Website experience — lowest adoption and revenue contribution.
+- Optimize POL2005HEL pricing & marketing — high revenue but poor customer penetration.
+- Revamp POL4321HEL — high customers but extremely low revenue indicates low ticket size.
+- Focus expansion in Tier-2 cities like Indore — lowest revenue and customer base.
+- Replicate Delhi NCR sales strategy — proven high-performing city model.
+- Run seasonal campaigns in November — weakest month for revenue and customers.
+- Leverage March peak patterns — replicate offers, timing, and agent incentives year-round.
 
 ---------------------------------
 
