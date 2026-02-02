@@ -31,7 +31,7 @@
 - Total Customers: 26,841
 - Daily Avg Revenue: 5.47M
 - Daily Avg Customers: 148
-- 
+
 ### City-Level Insights :
 - Delhi NCR: Highest revenue 401.57M | Highest customers 11,007
 - Indore: Lowest revenue 81.35M | Lowest customers 2,096
@@ -87,3 +87,21 @@
 ---------------------------------
 
 Live Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiZjQyYzQzODAtYWExOC00YjliLWFmY2YtNGRlMzAzYmE3YmExIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+
+## Home Page :
+![Home Page](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/Home%20Page.png?raw=true)
+
+-------
+
+## General View :
+![general](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/General%20View.png?raw=true)
+
+-----------
+
+## Sales Mode View :
+![Sales](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/Sales%20View.png?raw=true)
+
+----------
+
+## Age Group Analysis :
+![age group](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/Age%20Group%20Analysis.png?raw=true)
