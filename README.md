@@ -86,7 +86,7 @@
 
 ---------------------------------
 
-Live Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiZjQyYzQzODAtYWExOC00YjliLWFmY2YtNGRlMzAzYmE3YmExIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+Live Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiZjYxNWQ0NjQtNTllNS00NDRjLWEzZmUtMGU1MGJhNGNkMjdkIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
 
 ## Home Page :
 ![Home Page](https://github.com/parthpatoliya97/Shield_Insurance_Analysis/blob/main/Images/Home%20Page.png?raw=true)
